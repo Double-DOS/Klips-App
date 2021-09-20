@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "291554787154",
+    "project_id": "klips-app-63e05",
+    "storage_bucket": "klips-app-63e05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291554787154:android:e3bb815683210b9c30c48b",
+        "android_client_info": {
+          "package_name": "com.klipshome.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "291554787154-ihj77893kc77vc0e9g12jnumdsnkjbsc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.klipshome.app",
+            "certificate_hash": "2d6b729143ff852ea264684ad211e8215522a457"
+          }
+        },
+        {
+          "client_id": "291554787154-dc2i7u2cvdbclqep4jmrisvdf2jqvsl3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhNIxt9WGvnd9xSm2iz-5UjlHsYCpovSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "291554787154-dc2i7u2cvdbclqep4jmrisvdf2jqvsl3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

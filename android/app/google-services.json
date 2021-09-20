@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "777924236278",
+    "project_id": "klipshome",
+    "storage_bucket": "klipshome.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777924236278:android:3f8df395a0d59dc10e2dd7",
+        "android_client_info": {
+          "package_name": "com.klipshome.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "777924236278-rpcs6gq4vnsgvkhnenbcatb2t9dejlth.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzES1mgX3szBYuunCMY6ZKM821GMkx2Hk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "777924236278-rpcs6gq4vnsgvkhnenbcatb2t9dejlth.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
